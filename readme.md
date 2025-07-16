@@ -51,7 +51,7 @@ When the "Adopt Me" button is clicked:
 ## Submission Instructions
 
 1. **Create a new private GitHub repository** in your personal GitHub account.
-2. **Add the following GitHub user as collaborators:** `zannias`
+2. **Add the following GitHub user as collaborators:** `zannias` --> `https://github.com/d3xt3r9`
 3. **Create a new branch** in your private repo (e.g. `feature/cat-gallery-[your-name]`).
 4. **Implement the assignment** in that branch.
 5. When you are ready, **create a Pull Request** with your implementation into your own main branch.
